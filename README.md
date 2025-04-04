@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nolanbro
 - 👀 I’m interested in ... coding
 - 🌱 I’m currently learning ... java script
-- 💞️ I’m looking to collaborate on ... sure if you want me ( im not a good coder)
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... email anami@duck.com
 - 😄 Pronouns: ... him/he
 - ⚡ Fun fact: ...
